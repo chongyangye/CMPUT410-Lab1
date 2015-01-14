@@ -1,7 +1,4 @@
 #CMPUT 410 Lab1 by Chongyang Ye
-#This program allows add courses and 
-#corresponding marks for a student
-#and count the average score
 class Student:
     courseMarks={}
     name= ""    
