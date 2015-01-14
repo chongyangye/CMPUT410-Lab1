@@ -1,3 +1,3 @@
-# Repo2
+# CMPUT 410
 CMPUT410 Lab1
 
